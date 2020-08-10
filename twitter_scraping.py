@@ -12,11 +12,11 @@ import datetime
 
 def init():
     # Step 1 - Authenticate
-    consumer_key= 'dthtd5rgyGg256oEXIWO1UemY'
-    consumer_secret= 'euVVlzb9FCnManEwqgNuByuF0PKjeBxh3yi7CEDW9ZVos4xrhc'
+    consumer_key= ''
+    consumer_secret= ''
 
-    access_token='842548074413142017-vWBcip10tABfjdUPX1EkC3BqubQewRv'
-    access_token_secret='ccX7sulAWR47Y5EN0qc2ER7K3A2t9mDjrsysOBD9F7foy'
+    access_token=''
+    access_token_secret=''
     #ZhzhKBHOwZW7uPhXUSADH20do
     #lEeWGeJ5RTZrb7EIXcndGefsvZeVL34Z9l9gq1jXIUSNDfCjxi
     #842703751374757888-GWHJrHmOoR39xXK8pjWzzkHOj8Aye2U
